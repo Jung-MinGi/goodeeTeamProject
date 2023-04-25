@@ -12,8 +12,8 @@
 담당역할: 
  * 로그인-세션을 이용해 로그인 상태유지,[컨트롤러](https://github.com/Jung-MinGi/goodeeTeamProject/blob/453e0a7665472012f144f5b1d3b3996f33e33c30/src/main/java/com/gdj59/bookmall/controller/UserController.java#L35)
  * 회원정보 수정,탈퇴 -  ajax와 restapi로 구현[controller](https://github.com/Jung-MinGi/goodeeTeamProject/blob/453e0a7665472012f144f5b1d3b3996f33e33c30/src/main/java/com/gdj59/bookmall/controller/ApiController.java#L35)
- * 장바구니 - 장바구니 수량 증감 ajax로 구현,[]()
- * 회원가입- 회원가입시 다음 api를 이용한 주소입력기능 구현,아이디 중복확인시 ajax
+ * 장바구니 - 장바구니 수량 증감 ajax로 구현,[controller](https://github.com/Jung-MinGi/goodeeTeamProject/blob/4fd9f93ba9f556f0b2783cffdb6a2ef6d156f3b1/src/main/java/com/gdj59/bookmall/controller/CartController.java#L28)
+ * 회원가입- 회원가입시 다음 api를 이용한 주소입력기능 구현,아이디 중복확인시 ajax[]()
  * 구매내역 - 회원별 구매내역 조회
 
 개발환경:
